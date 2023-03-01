@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mai 3tef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mai 3tef" height="30" width="40" /></a>
+<a href="https://twitter.com/mai 3tef3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mai 3tef3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mai-3tef-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mai-3tef-" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100005037134734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100005037134734" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100005037134734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100005037134734" height="30" width="40" /></a>
 <a href="https://instagram.com/mai.3tef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mai.3tef" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mai_atef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mai_atef" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mai_3tef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mai_3tef" height="30" width="40" /></a>
