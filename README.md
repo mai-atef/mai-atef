@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mai Atef</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mai-atef&label=Profile%20views&color=0e75b6&style=flat" alt="mai-atef" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mai-atef" alt="mai-atef" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mai 3tef" target="blank"><img src="https://img.shields.io/twitter/follow/mai 3tef?logo=twitter&style=for-the-badge" alt="mai 3tef" /></a> </p>
 
 - 🔭 I am a Student **at Faculty of Computers & Informatics at Suez Canal University.**
 
@@ -17,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mai 3tef3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mai 3tef3" height="30" width="40" /></a>
+<a href="https://twitter.com/mai3tef3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mai 3tef" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mai-3tef-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mai-3tef-" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100005037134734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100005037134734" height="30" width="40" /></a>
 <a href="https://instagram.com/mai.3tef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mai.3tef" height="30" width="40" /></a>
